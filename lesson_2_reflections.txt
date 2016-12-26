@@ -19,6 +19,8 @@ Branches would be helpful when creating new experimental features in a program o
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams allow you to see the how all of the branches are connected. Furthermore they help you understand how each commit is related (i.e. whose parent commit is whose) and helps you to understand the reachability of each branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
