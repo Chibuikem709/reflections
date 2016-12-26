@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The mac and linux versions used (+) and (-) to denote added and removed contents, respectively.
+    The windows version had the edited code blocks appear one on top of the other.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    One can easily spot the changes in documents and verify where the errors in code is located
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+    Pro: Gives flexibility; Probably means commits are more meaningful;
+    Con: May forget to commit; may commit too much;
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Lots of code files are interrelated-- meaning changes in one could affect changes in another.
+    Tracking multiple file changes allows us to see where these changes occur and how the affect
+    all other files they are related too.
+    Google docs and co. handle documents that remain widely independent from one another. Therefore
+    tracking changes across multiple files is not necessary.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log lists all of the commits as well as the messages for each commit.
+    git diff allows you to compare the differences between two files
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control allows me to go back to previous version before the bug is introduced
+    I no longer have to worry about making a change that could break my code forever
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Version control of course!
