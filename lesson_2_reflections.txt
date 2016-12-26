@@ -28,3 +28,5 @@ The result is a commit with two parents.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Prevents git from guessing which code is right. stops unwanted bugs
