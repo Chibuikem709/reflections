@@ -6,7 +6,7 @@ You would want to do this when you are collaborating with others or you are work
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Sometimes commits don't represent a completed feature. Automatically, pushing and pulling would make these features public when you may not want them to be public.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
