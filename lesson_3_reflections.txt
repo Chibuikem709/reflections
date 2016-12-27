@@ -21,7 +21,7 @@ It allows you to make offline changes to the remote branch, thus reducing the an
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I would send different copies of my files via email. It would be much harder (Think Fall 2016 PHP final project).
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
