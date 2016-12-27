@@ -11,7 +11,7 @@ Sometimes commits don't represent a completed feature. Automatically, pushing an
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks copy repositories that are on the GitHub server. Clones copy repositories from GitHub servers to local directories (and copy repositories on local directories to local directories), branches make changes to the a single repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
