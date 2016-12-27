@@ -26,4 +26,4 @@ I would send different copies of my files via email. It would be much harder (Th
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would want to when I am collaborating with others on a project and would like them to see the changes I have made/ modify the changes I've made before making them permanent.
